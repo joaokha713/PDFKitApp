@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/moneypath/PDFKitApp#readme",
   "dependencies": {
+    "moment": "^2.19.1",
     "momentjs": "^2.0.0",
     "pdfkit": "^0.8.3"
   }
